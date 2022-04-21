@@ -1,0 +1,10 @@
+Jollibee;2021;1;2;MWF;17;18;
+Burger King;2022;3;5;MWF;17;18;
+In'n'out;2022;3;5;MWF;10;11;
+McDonalds;2021;3;5;TH;10;11;
+Wendys;2021;3;5;TH;12;13;
+Chick-fil-a;2021;7;8;F;15;16;
+Taco Bell;2021;8;9;S;10;11;
+KFC;2021;9;11;TH;10;11;
+Popeyes;2022;3;5;MWF;17;18;
+Blaze Pizza;2022;3;5;TH;10;11;
